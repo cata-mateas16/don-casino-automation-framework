@@ -1,0 +1,14 @@
+{
+  "login": {
+    "email": "catalin.mateas@softgenius.com",
+    "password": "Testing12345",
+    "firstName": "Catalin",
+    "lastName": "Mateas",
+    "birthDate": "2002 July 16",
+    "gender": "Male",
+    "city": "Satu Mare",
+    "address": "Ioan Gallu",
+    "postCode": "440084",
+    "phoneNumber": 742994597
+}
+}
