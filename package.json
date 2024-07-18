@@ -10,6 +10,9 @@
   },
   "author": "Catalin",
   "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
   "bugs": {
     "url": "https://github.com/cata-mateas16/don-casino-automation-framework/issues"
   },
@@ -17,7 +20,7 @@
   "devDependencies": {
     "@playwright/test": "^1.45.2",
     "@types/node": "^20.14.11",
-    "globals": "^15.8.0",
-    "eslint": "^8.57.0"
-  } 
+    "eslint": "^8.57.0",
+    "globals": "^15.8.0"
+  }
 }
